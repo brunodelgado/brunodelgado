@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a project called Nexus, the first GTA Online companion app for iOS.
 - 💬 Ask me about anything related to Apple platforms development (iPhone, iPad, Apple Watch, Apple TV, Apple Vision Pro).
 - 🌱 I’m currently learning Node.js and JavaScript.
-- ⚡ Fun facts: I love gaming (PSN: [brunodelgado_br](https://psnprofiles.com/brunodelgado_br)), travel and I'm an aspiring drone pilot.
+- ⚡ Fun facts: I love gaming (PSN: [brunodelgado_br](https://profile.playstation.com/brunodelgado_br)), travel and I'm an aspiring drone pilot.
 
  
 ## Find me 🌎
